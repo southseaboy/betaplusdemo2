@@ -1,1 +1,3 @@
-more test text to trigger changes
+more test text to trigger changes - conflict in this line
+
+and the next
